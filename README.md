@@ -1,13 +1,15 @@
-# Impress Your Love
+# AYUSH SHAH #
+
+# IMPRESS YOUR LOVE 
 
 A **mobile-optimized web application** built with **React, Vite, and Tailwind CSS**, designed to enhance relationship interactions through a fun and personalized web experience.
 
-## 🚀 Installation
+## 🚀 INSTALLATION
 
-### 1️⃣ Clone the Repository
+### 1️⃣ CLONE THE REPOSITORY
 
 ```bash
-git clone https://github.com/Aoudumber-Bade/Impress_Your_Love.git
+git clone https://github.com/ayushshah-py/IMPRESS_YOUR_GIRL.git
 cd Impress_Your_Love
 ```
 
@@ -87,3 +89,6 @@ This project is designed to be **customizable and easy to use**! 🎉 Simply:
 3️⃣ **Run the project** and enjoy!
 
 For any questions, **open an issue** on the repository. 🚀
+
+
+# AYUSH SHAH #
